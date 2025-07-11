@@ -641,4 +641,17 @@ html {
   .fas.fa-times {
     display: none;
   }
-    
+  .my-photos {
+    max-width: 100%;
+    height: auto;
+    display: block;
+    margin: 0 auto;
+  }
+  
+  @media (max-width: 768px) {
+    .my-photos {
+      width: 80%;
+      margin-top: 20px;
+    }
+  }
+  
