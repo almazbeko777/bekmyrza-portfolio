@@ -424,13 +424,8 @@ nav .fas {
 
 }
 
-/* ----------CSS FOR SMALL SCREEN---------- */
-@media only screen and (max-width: 600px) {
 
-    /* Adjust the header image and text size for small screens */
-    #header {
-        /* background-image: url(images/phone-background.png); */
-    }
+
 
     .header-text {
         margin-top: 100%;
@@ -475,7 +470,7 @@ nav .fas {
         margin: 25px;
     }
     
-}
+
 @media only screen and (max-width: 768px) {
     nav ul {
         position: fixed;
